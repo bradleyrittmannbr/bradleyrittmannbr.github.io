@@ -17,9 +17,3 @@ O avatar "BR" é tipográfico porque não foi enviada uma foto de perfil separad
 
 FOTO DE PERFIL
 A foto usada no círculo do cabeçalho está em assets/foto-perfil-bradley.png. Para trocar futuramente, substitua esse arquivo mantendo o mesmo nome.
-
-
-Atualização desta versão:
-- Link correto do Soulidified Music: https://www.instagram.com/soulidified/
-- Imagens configuradas para preservar a proporção original, sem cortes ou deformação.
-- Envie o conteúdo deste ZIP diretamente para a raiz do repositório do GitHub Pages.
